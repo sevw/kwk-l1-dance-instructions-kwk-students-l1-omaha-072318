@@ -17,5 +17,5 @@ def bob_the_reins
 end 
 
 def lasso 
-  puts "Lift Start lasso"
+  puts "Raise Lift Start lasso"
 end 
