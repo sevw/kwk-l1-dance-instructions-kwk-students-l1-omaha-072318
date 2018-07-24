@@ -16,3 +16,5 @@ def bob_the_reins
   puts "Do Lift Cross Hold Bop it out"
 end 
 
+def lasso 
+  puts ""
