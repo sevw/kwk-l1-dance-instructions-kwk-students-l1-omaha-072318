@@ -18,4 +18,8 @@ end
 
 def lasso 
   puts "Do Raise Lift Start lasso"
+end
+
+def bust_a_move
+  puts "bust a move"
 end 
