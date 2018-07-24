@@ -13,6 +13,6 @@ def base_footwork
 end 
 
 def bob_the_reins
-  puts "Bop it out"
+  puts "Hold Bop it out"
 end 
 
