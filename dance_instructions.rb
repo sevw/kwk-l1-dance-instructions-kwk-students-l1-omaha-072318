@@ -11,3 +11,6 @@ end
 def base_footwork
   puts "Lift right foot Return right foot"
 end 
+
+def bob_the_reins
+  puts 
