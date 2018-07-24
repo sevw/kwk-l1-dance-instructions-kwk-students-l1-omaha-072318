@@ -21,5 +21,5 @@ def lasso
 end
 
 def bust_a_move
-  puts "bust a move"
+  puts "Be cool and be snazzy bust a move"
 end 
