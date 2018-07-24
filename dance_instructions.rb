@@ -9,5 +9,5 @@ def skip_step(left)
 end
 
 def base_footwork
-  puts "return right foot"
+  puts "Lift return right foot"
 end 
